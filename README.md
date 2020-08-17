@@ -7,9 +7,9 @@ Open the .exe file to play.
 
 The goal is to get to position 35. You start at position 1. You get 10 Points every move.
 
-Easy: 60 moves (final score * 0.50)
-Medium: 50 Moves (final score * 1.00)
-Hard: 40 moves (final score * 1.50)
+1.	Easy: 60 moves (final score * 0.50)
+2. 	Medium: 50 Moves (final score * 1.00)
+3.	Hard: 40 moves (final score * 1.50)
 
 You start out with 0 money, 5 energy, and 6 gas. The max amount of energy you can have is 5. The max gas is 6.
 At every move, you can harvest work, rest, or move forward. Working gives you $15 but spends 1 energy.
